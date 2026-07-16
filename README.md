@@ -1,14 +1,12 @@
 # Brisart Licensing
 
-The central licensing and ecosystem policy repository for Brisart software.
-
-This repository serves as the single source of truth for licensing terms, ecosystem participation, implementation requests, donations, subscriptions, and policy information across all Brisart projects.
+The central source of truth for ecosystem policies, licensing, participation programs, and related documentation across the Brisart ecosystem.
 
 ---
 
 # Covered Projects
 
-This repository applies to all Brisart ecosystem projects, including:
+This repository applies to Brisart ecosystem projects, including:
 
 - BrisartDevTools
 - BrisartResearchArchive
@@ -23,7 +21,7 @@ and future Brisart software projects unless explicitly stated otherwise.
 
 The Brisart ecosystem is organized into multiple independent software repositories.
 
-Rather than maintaining separate policy, licensing, and participation information inside every repository, this repository centralizes ecosystem-wide information in a single location.
+Rather than maintaining separate policy, licensing, participation, and ecosystem information inside every repository, this repository centralizes ecosystem-wide information in a single location.
 
 ---
 
@@ -69,6 +67,16 @@ See:
 
 ---
 
+## Ecosystem Projects
+
+Information about current and future Brisart ecosystem projects.
+
+See:
+
+- ECOSYSTEM_PROJECTS.md
+
+---
+
 # Brisart Philosophy
 
 Brisart software is developed for local-first, auditable, maintainable, and long-term research environments.
@@ -90,24 +98,16 @@ Organizations with similar requirements may benefit from that ongoing developmen
 
 # Ecosystem Structure
 
-BrisartDevTools
-        │
-        ▼
-BrisartResearchArchive
-        │
-        ▼
-BrisartPreservationTools
-        │
-        ▼
-BrisartIdentityTools
+Brisart Ecosystem
 
-        │
-        ▼
-
-BrisartLicensing
+├── BrisartDevTools
+├── BrisartResearchArchive
+├── BrisartPreservationTools
+├── BrisartIdentityTools
+└── BrisartLicensing
 
 ---
 
 # Questions
 
-If a Brisart repository references ecosystem policies, licensing, subscriptions, or implementation requests, that information can be found here.
+If a Brisart repository references ecosystem policies, licensing information, participation programs, implementation requests, subscriptions, donations, or related documentation, that information can be found here.
