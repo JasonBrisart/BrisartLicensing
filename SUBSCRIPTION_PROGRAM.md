@@ -97,4 +97,3 @@ The software is built because the Brisart ecosystem needs it.
 Organizations with similar constraints may benefit from the same ongoing development.
 
 Subscribers help support the continued creation of local-first, auditable, maintainable, and research-oriented software.
-``
