@@ -1,12 +1,11 @@
 # Brisart Ecosystem License
 
-This repository serves as the central source of truth for
-licensing information across the Brisart ecosystem.
+The BrisartLicensing repository serves as the official source of licensing information, participation terms, modification rights, and ecosystem policies for Brisart software projects.
 
 Covered projects may include:
 
-- BrisartDevTools
 - BrisartResearchArchive
+- BrisartDevTools
 - BrisartPreservationTools
 - BrisartIdentityTools
 
@@ -14,125 +13,112 @@ and future Brisart ecosystem projects unless explicitly stated otherwise.
 
 ---
 
-## Official Releases
+# Purpose
 
-Official Brisart releases may be downloaded, executed,
-evaluated, studied, and used according to current
-ecosystem terms.
+The Brisart ecosystem is built around transparent software, publicly available source code, and long-term maintainability.
 
-Official releases are distributed through official
-Brisart-controlled repositories and distribution channels.
+This repository exists to provide a single authoritative location for information regarding software use, source availability, modification rights, ecosystem participation, and related policies.
 
 ---
 
-## User Rights
+# Official Releases
+
+Official Brisart software releases are distributed through Brisart-controlled repositories, websites, and other authorized distribution channels.
+
+Users should obtain software only from official sources to ensure authenticity and access to current documentation.
+
+---
+
+# Permitted Use
 
 Unless otherwise stated, users may:
 
-- Download official Brisart releases
-- Execute official Brisart releases
-- Evaluate Brisart software
+- Download official releases
+- Execute official releases
+- Evaluate software functionality
 - Study published source code
 - Use official releases for personal, educational, research, and organizational purposes
 
-Publication of source code does not automatically grant modification, redistribution, derivative development, or forking rights beyond those expressly granted through applicable ecosystem participation programs.
-
-Users should refer to current ecosystem policies for the latest information regarding modification rights, private forks, redistribution, and ecosystem participation.
+These permissions apply only to official releases and do not automatically grant rights to modify, redistribute, publish, or create derivative works.
 
 ---
 
-## Source Availability
+# Source Availability
 
-Source code may be published and made available for
-inspection, study, evaluation, and educational purposes.
+Source code may be published to support:
 
-Publication of source code does not automatically grant
-all modification, redistribution, or forking rights.
+- Transparency
+- Education
+- Research
+- Security review
+- Software evaluation
 
-Users should refer to current ecosystem policies for the
-latest participation and modification terms.
+Publication of source code does not automatically grant unrestricted rights to modify, redistribute, publish, or publicly fork Brisart software.
+
+Any such rights are governed by current ecosystem policies.
 
 ---
 
-## Modification Rights
+# Private Modifications
 
-Organizations and individuals participating in an active
-Brisart ecosystem subscription program may maintain private
-modified versions of Brisart software for internal use.
+Organizations and individuals participating in eligible Brisart ecosystem programs may be granted permission to maintain private modified versions of Brisart software for internal use.
 
-Such modifications may include:
+Examples include:
 
 - Workflow customization
-- Internal feature additions
-- Internal integrations
-- Environment-specific changes
+- Internal feature development
 - Research-specific adaptations
+- Environment-specific changes
+- Internal integrations
 
-Modified versions must remain private unless explicitly
-authorized otherwise.
-
----
-
-## Subscription-Based Modification Use
-
-The right to create and use private modified versions is an
-ecosystem participation benefit.
-
-If participation in the applicable subscription program
-ends, modification rights granted through that program
-terminate.
-
-Former subscribers may continue using official releases
-according to current ecosystem terms.
-
-Use of modified versions created under subscription-based
-modification rights may require reactivation of an active
-subscription before continued use.
+Unless explicitly authorized, modified versions must remain private and may not be distributed publicly.
 
 ---
 
-## Forking
+# Ecosystem Participation
 
-Forking, modification, and derivative development may be
-subject to current ecosystem participation policies.
+Certain rights and benefits within the Brisart ecosystem may be associated with active participation programs, subscriptions, support agreements, or other services.
 
-Users should refer to current Brisart ecosystem policies
-for the latest applicable terms.
+Available benefits may vary over time and are defined by the current ecosystem policies published within this repository.
 
 ---
 
-## Redistribution
+# Forking and Derivative Works
 
-Redistribution rights, publication rights, and related
-permissions may be governed by current ecosystem policies.
+Forking, derivative development, redistribution, and related activities may be subject to additional requirements or restrictions.
 
-Users should refer to the BrisartLicensing repository for
-current information.
+Users should refer to the latest ecosystem policies for current guidance regarding these activities.
 
 ---
 
-## Updates
+# Redistribution
 
-Licensing terms, participation programs, ecosystem
-policies, and related documentation may change over time.
+Redistribution of Brisart software, source code, modified versions, or derivative works is not automatically permitted unless explicitly authorized.
 
-Users should refer to this repository for the latest
-available ecosystem-wide information.
+Current redistribution policies are maintained within this repository.
 
 ---
 
-## Questions
+# Policy Updates
+
+Brisart ecosystem policies, participation programs, and licensing terms may evolve over time.
+
+Users should refer to the latest documentation published in the BrisartLicensing repository for current information.
+
+---
+
+# Questions
 
 Questions regarding:
 
-- Use of Brisart software
+- Software use
+- Licensing
 - Modification rights
 - Forking rights
+- Redistribution
 - Ecosystem participation
 - Subscription programs
-- Redistribution
 - Donations
 - Implementation requests
 
-should be directed to the BrisartLicensing repository as
-the authoritative source of ecosystem information.
+should be directed to the BrisartLicensing repository, which serves as the official source of ecosystem-wide licensing and policy information.
