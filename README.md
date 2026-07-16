@@ -27,13 +27,12 @@ Rather than maintaining separate policy, licensing, participation, and ecosystem
 
 # Repository Contents
 
-## Licensing
+### Licensing
 
 Software licensing information and usage policies.
 
 See:
-
-- LICENSE.md
+- LICENSE
 
 ---
 
