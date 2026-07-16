@@ -1,10 +1,22 @@
 # Brisart Subscription Program
 
-The Brisart Subscription Program is intended for organizations that want to participate in the continued development of the Brisart software ecosystem.
+The Brisart Subscription Program is intended for individuals and organizations that wish to participate in the ongoing development of the Brisart ecosystem.
 
-Brisart software is developed first for the operational needs of the Brisart ecosystem and associated research environments.
+Brisart software is developed first to support the operational needs of the Brisart ecosystem and associated research environments.
 
-Organizations with similar requirements may choose to subscribe in order to help guide future development priorities and implementation directions.
+Organizations with similar requirements may choose to subscribe in order to participate in future ecosystem development and obtain ecosystem participation benefits.
+
+---
+
+## TL;DR
+
+Official Brisart releases may be downloaded, evaluated, studied, and used according to current ecosystem terms.
+
+Published source code may be inspected and studied.
+
+Active subscribers may receive additional rights relating to private modifications, internal forks, custom versions, implementation requests, and ecosystem participation benefits.
+
+Refer to the LICENSE file for current usage, modification, and participation terms.
 
 ---
 
@@ -18,7 +30,7 @@ Subscriptions may help fund:
 - New ecosystem capabilities
 - New implementation work
 - Research and experimentation
-- Long-term software maintenance
+- Long-term ecosystem maintenance
 - Archival and preservation tooling
 - Identity and verification tooling
 - Development workflow tooling
@@ -27,9 +39,15 @@ Subscriptions may help fund:
 
 ## Subscriber Participation
 
-Subscribers may submit implementation requests, feature ideas, and ecosystem development suggestions.
+Subscribers may submit:
 
-Subscriber input may help influence what Brisart builds next.
+- Implementation requests
+- Feature proposals
+- Workflow suggestions
+- Ecosystem development ideas
+- Product direction feedback
+
+Subscriber participation may help influence future ecosystem priorities and development directions.
 
 Examples may include:
 
@@ -44,17 +62,35 @@ Examples may include:
 
 ---
 
+## Modification Benefits
+
+Active subscribers may receive additional rights relating to:
+
+- Private modifications
+- Internal forks
+- Custom versions
+- Workflow customization
+- Environment-specific adaptations
+- Research-specific modifications
+
+Applicable modification, participation, and usage terms are defined by the current ecosystem licensing framework.
+
+Refer to the LICENSE file for current information.
+
+---
+
 ## What A Subscription Provides
 
-A subscription provides a way to participate in the ongoing development direction of the Brisart ecosystem.
+A subscription provides a way to participate in the ongoing evolution of the Brisart ecosystem.
 
-Subscribers may receive consideration for:
+Participation benefits may include:
 
-- Implementation requests
-- Feature proposals
-- Ecosystem development suggestions
-- Workflow expansion ideas
+- Implementation request consideration
+- Feature proposal consideration
+- Ecosystem development participation
+- Workflow expansion suggestions
 - Product direction feedback
+- Modification-related participation benefits as permitted by current ecosystem terms
 
 ---
 
@@ -69,11 +105,12 @@ The Brisart Subscription Program does not provide:
 - Deployment services
 - Consulting services
 - Guaranteed implementation of every request
+- Guaranteed feature development
 - Guaranteed delivery timelines
 
 Brisart develops products.
 
-The subscription program is intended to support and influence future product development, not to operate as a support contract.
+The subscription program exists to support and influence future ecosystem development, not to operate as a support contract.
 
 ---
 
@@ -96,4 +133,21 @@ The software is built because the Brisart ecosystem needs it.
 
 Organizations with similar constraints may benefit from the same ongoing development.
 
-Subscribers help support the continued creation of local-first, auditable, maintainable, and research-oriented software.
+Subscribers help support the continued creation of:
+
+- Local-first software
+- Auditable software
+- Maintainable software
+- Preservation-focused software
+- Research-oriented software
+- Offline-capable software
+
+---
+
+## Note
+
+The BrisartLicensing repository serves as the authoritative source of ecosystem participation information.
+
+Subscription terms, participation benefits, licensing information, implementation request policies, and related documentation may evolve over time.
+
+Users should refer to the BrisartLicensing repository for current information.
