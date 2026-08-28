@@ -14,7 +14,7 @@ A donation is not a subscription. It doesn't come with technical support, guaran
 
 ## Implementation Requests
 
-Implementation requests are how active subscribers suggest future capabilities for Brisart software. Submitting one requires an active subscription — see `LICENSE.md` §2. This section describes how requests work in practice, not the underlying right.
+Implementation requests are how active subscribers suggest future capabilities for Brisart software. Submitting one requires an active subscription — see `LICENSE` §2. This section describes how requests work in practice, not the underlying right.
 
 **What to suggest:** new features, workflows, tools, or ecosystem integrations. Example areas include local identity records, offline authentication, research archive features, preservation utilities, and developer automation.
 
