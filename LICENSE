@@ -1,139 +1,71 @@
 # Brisart Ecosystem License
 
-The BrisartLicensing repository serves as the authoritative source for licensing, participation programs, modification rights, subscription information, implementation requests, donation information, and related governance for the Brisart software ecosystem.
+This is the single license governing use of the Brisart software ecosystem:
 
-This license applies to covered Brisart projects unless explicitly stated otherwise.
+BrisartResearchArchive,
+BrisartDevTools,
+BrisartPreservationTools,
+BrisartIdentityTools,
 
-Covered projects may include:
+and any future Brisart project.
 
-- BrisartResearchArchive
-- BrisartDevTools
-- BrisartPreservationTools
-- BrisartIdentityTools
-
-and future Brisart ecosystem projects.
+This document is maintained in the BrisartLicensing repository and is the sole authoritative source for these terms. If any other document, repository, or webpage describes these terms differently, this document controls.
 
 ---
 
-# Purpose
+## 1. Free, No Subscription Required
 
-The Brisart ecosystem is built around transparent software, publicly available source code, long-term maintainability, and sustainable development.
+Anyone can, at no cost, for non-commercial purposes only:
 
-The purpose of this repository is to provide a single location where users, researchers, organizations, and ecosystem participants can obtain current information regarding software usage, modification rights, participation programs, and ecosystem governance.
+- Download and run official releases
+- Read the source code
+- Use it personally, academically, or internally within an organization
 
----
-
-# Official Releases
-
-Official Brisart software releases are distributed through Brisart-controlled repositories, websites, and authorized distribution channels.
-
-Users should obtain software only from official sources to ensure authenticity and access to current documentation.
+That's it. No forking. No modifying. No redistributing. No selling anything built from it. Reading and running the official, unmodified release is the entire free grant.
 
 ---
 
-# Permitted Use
+## 2. What a Subscription Unlocks
 
-Unless otherwise stated, users may:
+An active subscription — any tier — grants four rights, and only while the subscription stays active:
 
-- Download official releases
-- Execute official releases
-- Evaluate software functionality
-- Study published source code
-- Use official releases for personal use
-- Use official releases for educational purposes
-- Use official releases for research purposes
-- Use official releases within organizations
+1. **Fork** the source code
+2. **Modify** it privately
+3. **Sell or commercialize** anything you build from it
+4. **Submit implementation requests** (feature/capability suggestions Brisart may or may not build)
 
-These permissions apply only to official releases and do not automatically grant rights to modify, redistribute, publish, fork, or create derivative works.
+All four require a currently active subscription. None of them are one-time — they're rented, not owned.
 
 ---
 
-# Source Availability
+## 3. If You Cancel
 
-Brisart software may be distributed with publicly available source code.
+Everything in Section 2 stops the moment your subscription lapses — including the right to keep selling something you already built and shipped while you were subscribed. There is no grandfathering. If you built a commercial product while subscribed and later cancel, you must stop selling it unless you resubscribe.
 
-Source availability is intended to support:
-
-- Transparency
-- Education
-- Research
-- Security review
-- Software evaluation
-- Long-term preservation
-
-Publication of source code does not automatically grant rights to redistribute, republish, fork, modify, or publicly distribute derivative works unless explicitly authorized.
+Resubscribing restores your rights going forward. It does not retroactively cover the gap.
 
 ---
 
-# Private Modifications
+## 4. Pricing
 
-Organizations and individuals participating in eligible Brisart subscription or participation programs may maintain private modified versions of Brisart software for internal use.
+| Tier | Price | Who it's for |
+|---|---|---|
+| Individual | $49.99/month | 1 person |
+| Research Lab | $499.99/month | Up to 15 people, one lab/org |
+| Institutional | $4,999.99/month | Unlimited people, one org |
 
-Examples include:
-
-- Workflow customization
-- Internal feature additions
-- Research-specific adaptations
-- Environment-specific modifications
-- Internal integrations
-
-Unless explicitly authorized, modified versions must remain private and may not be publicly distributed.
+Every tier grants the exact same rights. Price and seat count are the only differences.
 
 ---
 
-# Ecosystem Participation
+## 5. Everything Else
 
-Certain ecosystem benefits may be available through participation programs, subscriptions, support agreements, implementation programs, or other Brisart services.
-
-The BrisartLicensing repository serves as the authoritative source for participation requirements, available benefits, eligibility criteria, and program information.
-
----
-
-# Forking and Derivative Works
-
-Forking, derivative development, redistribution, republication, and similar activities are not automatically permitted.
-
-Any permissions relating to these activities must be explicitly granted through applicable Brisart licensing terms, participation programs, or written authorization.
+- **Official releases only** come from Brisart-controlled repositories, the official website, or explicitly authorized channels. Anything else isn't covered by this license.
+- **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
+- **Terms can change at any time, for any reason, at Brisart's sole discretion.** The current published version of this license always governs, effective immediately upon publication.
 
 ---
 
-# Redistribution
+## 6. Questions
 
-Redistribution of Brisart software, source code, modified versions, derivative works, release packages, or related materials is not automatically permitted unless explicitly authorized.
-
----
-
-# Repository Authority
-
-The BrisartLicensing repository serves as the official governance repository for the Brisart software ecosystem.
-
-Where licensing information, participation information, subscription information, implementation request policies, donation information, or related documentation differ between repositories, the documentation maintained within BrisartLicensing takes precedence.
-
----
-
-# Updates
-
-The Brisart ecosystem may evolve over time.
-
-Licensing terms, participation programs, subscription offerings, implementation programs, and ecosystem governance documentation may be revised as the ecosystem develops.
-
-The latest published version of the BrisartLicensing repository represents the current authoritative documentation for the Brisart ecosystem.
-
----
-
-# Questions
-
-Questions regarding:
-
-- Software use
-- Licensing
-- Modification rights
-- Forking rights
-- Redistribution
-- Participation programs
-- Subscription programs
-- Donations
-- Implementation requests
-- Ecosystem governance
-
-should be directed to the BrisartLicensing repository, which serves as the official source of ecosystem-wide licensing and governance information.
+Direct any licensing question to the BrisartLicensing repository.

@@ -1,112 +1,37 @@
 # Brisart Licensing
 
-The central source of truth for ecosystem policies, licensing, participation programs, and related documentation across the Brisart ecosystem.
+The central source of truth for licensing and ecosystem participation across the Brisart software ecosystem.
 
 ---
 
-# Covered Projects
+## Covered Projects
 
-This repository applies to Brisart ecosystem projects, including:
-
-- BrisartDevTools
 - BrisartResearchArchive
+- BrisartDevTools
 - BrisartPreservationTools
 - BrisartIdentityTools
 
-and future Brisart software projects unless explicitly stated otherwise.
+and any future Brisart project, unless that project states otherwise.
 
 ---
 
-# Purpose
+## What's In This Repository
 
-The Brisart ecosystem is organized into multiple independent software repositories.
+| File | Purpose |
+|---|---|
+| [`LICENSE.md`](LICENSE.md) | The only legally controlling document. Covers free-use rights, what a subscription unlocks, cancellation terms, and pricing. |
+| [`PARTICIPATION.md`](PARTICIPATION.md) | Non-binding guidance on donations and implementation requests — what they're for, how they're reviewed, and what to expect. Does not grant or restrict any rights; see `LICENSE.md` for that. |
 
-Rather than maintaining separate policy, licensing, participation, and ecosystem information inside every repository, this repository centralizes ecosystem-wide information in a single location.
-
----
-
-# Repository Contents
-
-### Licensing
-
-Software licensing information and usage policies.
-
-See:
-- LICENSE
+If anything in this README, or anywhere else, conflicts with `LICENSE.md`, `LICENSE.md` is correct.
 
 ---
 
-## Subscription Program
+## Philosophy
 
-Information about ecosystem participation and development subscriptions.
-
-See:
-
-- SUBSCRIPTION_PROGRAM.md
+Brisart software is built local-first, auditable, and dependency-conscious, first to support the operational needs of the Brisart ecosystem itself. Organizations with similar requirements may benefit from the same ongoing development, through the terms in `LICENSE.md`.
 
 ---
 
-## Implementation Requests
+## Questions
 
-Information about submitting ideas for future development and ecosystem capabilities.
-
-See:
-
-- IMPLEMENTATION_REQUESTS.md
-
----
-
-## Donations
-
-Information about supporting continued ecosystem development.
-
-See:
-
-- DONATIONS.md
-
----
-
-## Ecosystem Projects
-
-Information about current and future Brisart ecosystem projects.
-
-See:
-
-- ECOSYSTEM_PROJECTS.md
-
----
-
-# Brisart Philosophy
-
-Brisart software is developed for local-first, auditable, maintainable, and long-term research environments.
-
-The ecosystem prioritizes:
-
-- Transparency
-- Source availability
-- Auditability
-- Local ownership
-- Long-term maintainability
-- Dependency-conscious development
-
-Software is built first to support the operational needs of the Brisart ecosystem and associated research environments.
-
-Organizations with similar requirements may benefit from that ongoing development.
-
----
-
-# Ecosystem Structure
-
-Brisart Ecosystem
-
-├── BrisartDevTools
-├── BrisartResearchArchive
-├── BrisartPreservationTools
-├── BrisartIdentityTools
-└── BrisartLicensing
-
----
-
-# Questions
-
-If a Brisart repository references ecosystem policies, licensing information, participation programs, implementation requests, subscriptions, donations, or related documentation, that information can be found here.
+Direct any question about licensing, subscriptions, or participation to this repository.
