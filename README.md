@@ -22,8 +22,6 @@ and any future Brisart project, unless that project states otherwise.
 | [`LICENSE.md`](LICENSE.md) | The only legally controlling document. Covers free-use rights, what a subscription unlocks, cancellation terms, and pricing. |
 | [`PARTICIPATION.md`](PARTICIPATION.md) | Non-binding guidance on donations and implementation requests — what they're for, how they're reviewed, and what to expect. Does not grant or restrict any rights; see `LICENSE.md` for that. |
 
-If anything in this README, or anywhere else, conflicts with `LICENSE.md`, `LICENSE.md` is correct.
-
 ---
 
 ## Philosophy
