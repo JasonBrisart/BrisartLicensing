@@ -31,7 +31,3 @@ If anything in this README, or anywhere else, conflicts with `LICENSE.md`, `LICE
 Brisart software is built local-first, auditable, and dependency-conscious, first to support the operational needs of the Brisart ecosystem itself. Organizations with similar requirements may benefit from the same ongoing development, through the terms in `LICENSE.md`.
 
 ---
-
-## Questions
-
-Direct any question about licensing, subscriptions, or participation to this repository.
