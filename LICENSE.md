@@ -60,4 +60,5 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 
 - **Official releases only** come from Brisart-controlled repositories, the official website, or explicitly authorized channels. Anything else isn't covered by this license.
 - **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
+- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month.
 - **Terms can change at any time, for any reason, at Brisart's sole discretion.** The current published version of this license always governs, effective immediately upon publication.
