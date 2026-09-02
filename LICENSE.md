@@ -30,7 +30,7 @@ Anyone can, at no cost, for non-commercial purposes only:
 - Read the source code
 - Use it personally, academically, or internally within an organization
 
-That's it. No forking. No modifying. No redistributing. No selling anything built from it. Reading and running the official, unmodified release is the entire free grant.
+That's it. No forking. No modifying. No redistributing. No selling anything built from it (e.g Brisart-Derived Work - **Check Definitions** above §1). Reading and running the official, unmodified release is the entire free grant.
 
 ---
 
