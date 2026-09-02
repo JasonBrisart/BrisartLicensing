@@ -11,6 +11,17 @@ and any future Brisart project.
 
 ---
 
+### Definitions
+
+**Brisart-Derived Work** means any fork, modification, adaptation,
+reimplementation, rewrite, derivative work, successor work,
+replacement work, or other software created wholly or partially from
+Brisart software, Brisart source code, Brisart architecture,
+Brisart implementation details, or knowledge obtained through access
+to Brisart source code.
+
+---
+
 ## 1. Free, No Subscription Required
 
 Anyone can, at no cost, for non-commercial purposes only:
