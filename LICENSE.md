@@ -64,7 +64,7 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 
 - **Subscription month** means the period from the date you subscribe to the same calendar date in the next month.
 
-- **Terms can change at any time, for any reason, at Brisart's sole discretion.** •	Your current subscription month keeps the terms it started with. Any new terms apply at your next renewal.
+- **Terms can change at any time, for any reason, at Brisart's sole discretion.** Your current subscription month keeps the terms it started with. Any new terms apply at your next renewal.
 
 - **Future revenue sharing warning.** Brisart reserves the right to add, amend, or require net revenue sharing terms in the future, including terms at, above, or beyond fifty percent (50%) of net revenue. Brisart has not implemented that requirement yet, but expects to do so once Brisart-based products, markets, and commercial implementations mature in greater detail. If you subscribe with the intent to build, ship, sell, or commercialize a product based on Brisart work, this is your advance warning: think carefully before subscribing, because future commercial use may require revenue sharing in addition to an active subscription.
 
