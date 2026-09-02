@@ -59,7 +59,13 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 ## 5. Everything Else
 
 - **Official releases only** come from Brisart-controlled repositories, the official website, or explicitly authorized channels. Anything else isn't covered by this license.
+
 - **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
+
 - **Subscription month** means the period from the date you subscribe to the same calendar date in the next month.
+
 - **Terms can change at any time, for any reason, at Brisart's sole discretion.** The current published version of this license always governs, effective immediately upon publication.
+
 - **Future revenue sharing warning.** Brisart reserves the right to add, amend, or require net revenue sharing terms in the future, including terms at, above, or beyond fifty percent (50%) of net revenue. Brisart has not implemented that requirement yet, but expects to do so once Brisart-based products, markets, and commercial implementations mature in greater detail. If you subscribe with the intent to build, ship, sell, or commercialize a product based on Brisart work, this is your advance warning: think carefully before subscribing, because future commercial use may require revenue sharing in addition to an active subscription.
+
+- **Additional rules may be introduced.** At any renewal, Brisart may add, remove, revise, suspend, or replace rules, conditions, restrictions, requirements, clarifications, or operational terms applicable to subscriptions, commercial use, implementation requests, distribution, modification, or anything else governed by this license. These changes may be practical, protective, experimental, market-driven, administrative, or simply Brisart being Brisart. Your current subscription month keeps the terms it started with; any updated rules apply at the next renewal unless expressly stated otherwise.
