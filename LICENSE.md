@@ -73,7 +73,7 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 
 - **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
 
-- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month.
+- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month (e.g. March 2nd -> April 2nd;).
 
 - **Terms can change at any time, for any reason, at Brisart's sole discretion.** Your current subscription month keeps the terms it started with. Any new terms apply at your next renewal.
 
