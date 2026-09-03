@@ -2,10 +2,10 @@
 
 This is the single license governing use of the Brisart software ecosystem:
 
-BrisartResearchArchive,
-BrisartDevTools,
-BrisartPreservationTools,
-BrisartIdentityTools,
+- BrisartResearchArchive,
+- BrisartDevTools,
+- BrisartPreservationTools,
+- BrisartIdentityTools,
 
 and any future Brisart project.
 
