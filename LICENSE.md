@@ -36,14 +36,13 @@ That's it. No forking. No modifying. No redistributing. No selling anything buil
 
 ## 2. What a Subscription Unlocks
 
-An active subscription — any tier — grants four rights, and only while the subscription stays active:
+An active subscription — any tier — grants three rights, and only while the subscription stays active:
 
 1. **Fork** the source code
-2. **Modify** it privately
-3. **Sell or commercialize** anything you build from it
-4. **Submit implementation requests** (feature/capability suggestions Brisart may or may not build)
+2. **Sell or commercialize** anything you build from it
+3. **Submit implementation requests** (feature/capability suggestions Brisart may or may not build)
 
-All four require a currently active subscription. None of them are one-time — they're rented, not owned.
+All three require a currently active subscription. None of them are one-time — they're rented, not owned.
 
 ---
 
