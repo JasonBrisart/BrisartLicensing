@@ -39,8 +39,8 @@ That's it. No forking. No modifying. No redistributing. No selling anything buil
 An active subscription — any tier — grants three rights, and only while the subscription stays active:
 
 1. **Fork** the source code
-2. **Sell or commercialize** anything you build on top of it
-3. **Submit implementation requests** (feature/capability suggestions)
+2. **Sell or commercialize** anything you build from it
+3. **Submit implementation requests** (feature/capability suggestions Brisart may or may not build)
 
 All three require a currently active subscription. None of them are one-time — they're rented, not owned.
 
@@ -58,9 +58,9 @@ Resubscribing restores your rights going forward. It does not retroactively cove
 
 | Tier | Price | Who it's for |
 |---|---|---|
-| Individual | $499.99/month | 1 person |
-| Research Lab | $4,999.99/month | Up to 15 people, one lab/org |
-| Institutional | $49,999.99/month | Unlimited people, one org |
+| Individual | $49.99/month | 1 person |
+| Research Lab | $499.99/month | Up to 15 people, one lab/org |
+| Institutional | $4,999.99/month | Unlimited people, one org |
 
 Every tier grants the exact same rights. Price and seat count are the only differences.
 
@@ -72,6 +72,10 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 
 - **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
 
-- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month (e.g. March 2nd -> April 2nd).
+- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month (e.g. March 2nd -> April 2nd;).
 
 - **Terms can change at any time, for any reason, at Brisart's sole discretion.** Your current subscription month keeps the terms it started with. Any new terms apply at your next renewal.
+
+- **Future Revenue Sharing Notice.** Brisart reserves the right to introduce a revenue sharing requirement at future renewals, which may reach or exceed fifty percent (50%) of net revenue. No such requirement is currently in effect. Institutions or researchers planning to commercialize Brisart-Derived Work should factor this possibility into their long-term planning before subscribing.
+
+- **Additional rules may be introduced at renewal.** Brisart may add, remove, revise, suspend, or replace any terms governed by this license. Your current subscription month remains subject to the terms in effect when it began; updated terms apply at the next renewal unless stated otherwise.
