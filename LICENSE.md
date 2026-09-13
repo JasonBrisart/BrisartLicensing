@@ -77,5 +77,3 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 - **Terms can change at any time, for any reason, at Brisart's sole discretion.** Your current subscription month keeps the terms it started with. Any new terms apply at your next renewal.
 
 - **Future Revenue Sharing Notice.** Brisart reserves the right to introduce a revenue sharing requirement at future renewals, which may reach or exceed fifty percent (50%) of net revenue. No such requirement is currently in effect. Institutions or researchers planning to commercialize Brisart-Derived Work should factor this possibility into their long-term planning before subscribing.
-
-- **Additional rules may be introduced at renewal.** Brisart may add, remove, revise, suspend, or replace any terms governed by this license. Your current subscription month remains subject to the terms in effect when it began; updated terms apply at the next renewal unless stated otherwise.
