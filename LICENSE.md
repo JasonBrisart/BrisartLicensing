@@ -40,7 +40,7 @@ An active subscription — any tier — grants three rights, and only while the 
 
 1. **Fork** the source code
 2. **Sell or commercialize** anything you build on top of it
-3. **Submit implementation requests** (feature/capability suggestions Brisart may or may not build)
+3. **Submit implementation requests** (feature/capability suggestions)
 
 All three require a currently active subscription. None of them are one-time — they're rented, not owned.
 
