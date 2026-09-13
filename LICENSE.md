@@ -72,8 +72,6 @@ Every tier grants the exact same rights. Price and seat count are the only diffe
 
 - **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
 
-- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month (e.g. March 2nd -> April 2nd;).
+- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month (e.g. March 2nd -> April 2nd).
 
 - **Terms can change at any time, for any reason, at Brisart's sole discretion.** Your current subscription month keeps the terms it started with. Any new terms apply at your next renewal.
-
-- **Future Revenue Sharing Notice.** Brisart reserves the right to introduce a revenue sharing requirement at future renewals, which may reach or exceed fifty percent (50%) of net revenue. No such requirement is currently in effect. Institutions or researchers planning to commercialize Brisart-Derived Work should factor this possibility into their long-term planning before subscribing.
