@@ -28,7 +28,7 @@ Implementation requests are how active subscribers suggest future capabilities f
 
 ## Research Participation
 
-Brisart Frameworks are intended to be studied, analyzed, discussed, challenged, and evaluated by researchers, students, labs, institutions, and independent investigators.
+Brisart Frameworks are intended to be studied, analyzed, discussed, evaluated, challenged, and tested by researchers, students, labs, institutions, and independent investigators.
 
 Research participation may include reviewing published frameworks, developing hypotheses, conducting experiments, evaluating predictions, comparing competing models, identifying limitations, publishing findings, and contributing to academic or scientific discussion.
 
