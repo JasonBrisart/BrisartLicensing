@@ -10,19 +10,51 @@ Nothing in this document grants, modifies, or restricts any legal right. For lic
 
 Donations support ongoing development of the Brisart ecosystem — new tools, research and experimentation, long-term maintenance, and documentation.
 
-A donation is not a subscription. It doesn't come with technical support, guaranteed features, or any right described in `LICENSE.md` — including the right to submit implementation requests. If the ecosystem is useful to you and you'd like to support its continued development, a donation is one way to do that. Anyone can donate, subscriber or not.
+A donation is not a subscription. It doesn't come with technical support, guaranteed features, or any right described in `LICENSE.md`, including the right to submit implementation requests.
+
+If the ecosystem is useful to you and you'd like to support its continued development, a donation is one way to do that. Anyone can donate, subscriber or not.
 
 ---
 
 ## Implementation Requests
 
-Implementation requests are how active subscribers suggest future capabilities for Brisart software. Submitting one requires an active subscription — see `LICENSE` §2. This section describes how requests work in practice, not the underlying right.
+Implementation requests are how active subscribers suggest future capabilities for Brisart software.
 
-**What to suggest:** new features, workflows, tools, or ecosystem integrations. Example areas include local identity records, offline authentication, research archive features, preservation utilities, and developer automation.
+Submitting one requires an active subscription. See `LICENSE.md`.
 
-**How requests are reviewed:** Brisart considers alignment with the ecosystem's priorities — local-first operation, auditability, maintainability, and relevance to research, archival, identity, or preservation use cases — along with simplicity and long-term value.
+### What to Suggest
 
-**No guarantee:** submitting a request doesn't mean it will be built. Brisart may accept, reject, modify, defer, or reinterpret any request based on ecosystem priorities. Implementation requests are a way to influence product direction — they are not support tickets, bug reports, or consulting requests.
+- New features
+- New workflows
+- New tools
+- Ecosystem integrations
+
+Example areas include:
+
+- Local identity records
+- Offline authentication
+- Research archive features
+- Preservation utilities
+- Developer automation
+
+### How Requests Are Reviewed
+
+Brisart considers:
+
+- Alignment with ecosystem priorities
+- Local-first operation
+- Auditability
+- Maintainability
+- Long-term value
+- Relevance to research, archival, identity, and preservation workflows
+
+### No Guarantee
+
+Submitting a request does not mean it will be built.
+
+Brisart may accept, reject, modify, defer, combine, or reinterpret any request based on ecosystem priorities.
+
+Implementation requests influence product direction. They are not support tickets, bug reports, or consulting engagements.
 
 ---
 
@@ -32,4 +64,4 @@ Brisart Frameworks may be read and studied by researchers, students, labs, insti
 
 Reading and studying a framework does not grant any right to modify, adapt, extend, implement, test, validate, commercialize, redistribute, or otherwise create Brisart-Derived Work.
 
-Any activity beyond reading and studying the officially published framework requires the appropriate rights described in LICENSE.md.
+Any activity beyond reading and studying the officially published framework requires the appropriate rights described in `LICENSE.md`.
