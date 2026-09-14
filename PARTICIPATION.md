@@ -28,10 +28,8 @@ Implementation requests are how active subscribers suggest future capabilities f
 
 ## Research Participation
 
-Brisart Frameworks are intended to be studied, analyzed, discussed, evaluated, challenged, and tested by researchers, students, labs, institutions, and independent investigators.
+Brisart Frameworks may be read and studied by researchers, students, labs, institutions, and independent investigators.
 
-Research participation may include reviewing published frameworks, developing hypotheses, conducting experiments, evaluating predictions, comparing competing models, identifying limitations, publishing findings, and contributing to academic or scientific discussion.
+Reading and studying a framework does not grant any right to modify, adapt, extend, implement, test, validate, commercialize, redistribute, or otherwise create Brisart-Derived Work.
 
-The ability to study or evaluate a framework does not imply any right to modify, adapt, extend, implement, commercialize, redistribute, or otherwise create Brisart-Derived Work. Any such rights are governed exclusively by `LICENSE.md`.
-
-Brisart welcomes rigorous analysis, critical review, replication efforts, and good-faith attempts to validate or falsify framework claims. Research participation helps strengthen the quality, clarity, and long-term development of the broader framework ecosystem.
+Any activity beyond reading and studying the officially published framework requires the appropriate rights described in LICENSE.md.
