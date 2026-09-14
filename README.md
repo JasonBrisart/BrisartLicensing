@@ -11,7 +11,8 @@ This repository governs licensing and participation for:
 - BrisartPreservationTools
 - BrisartIdentityTools
 - BrisartFrameworks
-- Any future Brisart project unless that project explicitly states otherwise.
+
+and any future Brisart project unless that project explicitly states otherwise.
 
 ## What's In This Repository
 
@@ -45,7 +46,9 @@ Does not grant, modify, or restrict any legal right. Refer to `LICENSE.md` for a
 
 Brisart Frameworks are original theories, models, methodologies, specifications, workflows, symbolic structures, technical frameworks, research frameworks, and related structured materials developed and published by Brisart.
 
-Unless otherwise stated, Brisart Frameworks may reference this repository for licensing terms, subscription rights, commercial-use rights, participation policies, and related ecosystem requirements.
+Published frameworks may be read and studied without a subscription.
+
+Modification, adaptation, implementation, extension, commercialization, and the creation of Brisart-Derived Work are governed by `LICENSE.md`.
 
 ## Philosophy
 
