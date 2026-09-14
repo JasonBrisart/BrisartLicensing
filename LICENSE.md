@@ -6,6 +6,7 @@ This is the single license governing use of the Brisart software ecosystem:
 - BrisartDevTools,
 - BrisartPreservationTools,
 - BrisartIdentityTools,
+- BrisartFrameworks,
 
 and any future Brisart project.
 
@@ -15,10 +16,12 @@ and any future Brisart project.
 
 **Brisart-Derived Work** means any fork, modification, adaptation,
 reimplementation, rewrite, derivative work, successor work,
-replacement work, or other software created wholly or partially from
-Brisart software, Brisart source code, Brisart architecture,
+replacement work, framework, methodology, specification,
+workflow, implementation, software, product, service, or other work
+created wholly or partially from Brisart software, Brisart Frameworks,
+Brisart source code, Brisart architecture, Brisart methodologies,
 Brisart implementation details, or knowledge obtained through access
-to Brisart source code.
+to Brisart materials.
 
 ---
 
