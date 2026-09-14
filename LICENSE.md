@@ -25,13 +25,12 @@ Anyone can, at no cost and for non-commercial purposes only:
 - Download and run official releases
 - Read published source code
 - Read and study published Brisart Frameworks
-- Use official releases personally, academically, or internally within an organization
 
 That's it.
 
-No forking. No modifying. No adapting. No implementing. No extending. No redistributing. No commercializing. No creating Brisart-Derived Work.
+No forking. No modifying. No adapting. No implementing. No extending. No testing. No validating. No publishing Brisart-Derived Work. No redistributing. No commercializing. No creating Brisart-Derived Work.
 
-Reading and using official releases as published, and reading and studying published frameworks, is the entire free grant.
+Reading official releases and studying published frameworks is the entire free grant.
 
 ---
 
