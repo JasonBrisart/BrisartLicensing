@@ -25,12 +25,13 @@ Anyone can, at no cost and for non-commercial purposes only:
 - Download and run official releases
 - Read published source code
 - Read and study published Brisart Frameworks
+- Use official releases as published
 
 That's it.
 
-No forking. No modifying. No adapting. No implementing. No extending. No testing. No validating. No publishing Brisart-Derived Work. No redistributing. No commercializing. No creating Brisart-Derived Work.
+No forking. No modifying. No adapting. No extending. No implementing. No testing. No validating. No publishing derivative research. No redistributing. No commercializing. No creating Brisart-Derived Work.
 
-Reading official releases and studying published frameworks is the entire free grant.
+Reading official releases as published and reading or studying published frameworks is the entire free grant.
 
 ---
 
@@ -40,8 +41,9 @@ An active subscription grants the right to:
 
 1. Fork, modify, adapt, implement, or extend Brisart software and frameworks
 2. Create Brisart-Derived Work
-3. Sell or commercialize Brisart-Derived Work
-4. Submit implementation requests
+3. Publish, distribute, host, maintain, or otherwise make Brisart-Derived Work available
+4. Sell or commercialize Brisart-Derived Work
+5. Submit implementation requests
 
 These rights exist only while the subscription remains active.
 
@@ -55,13 +57,13 @@ Everything in Section 2 stops the moment your subscription lapses, expires, or i
 
 There is no grandfathering.
 
-If you created, sold, licensed, distributed, commercialized, or otherwise made available Brisart-Derived Work while subscribed, those activities must stop when the subscription ends unless you resubscribe.
-
-Resubscribing restores the applicable rights going forward. It does not retroactively cover any period during which no active subscription existed.
+If you created, published, distributed, hosted, maintained, sold, licensed, commercialized, or otherwise made Brisart-Derived Work available while subscribed, those activities must stop when the subscription ends unless you resubscribe.
 
 Academic publications, research papers, validation studies, implementations, derivative frameworks, and other Brisart-Derived Work are subject to the same subscription requirements as commercial works.
 
 If a subscription expires, lapses, or is cancelled, the right to continue publishing, distributing, hosting, maintaining, or otherwise making such Brisart-Derived Work available also ends unless the subscription is renewed.
+
+Resubscribing restores the applicable rights going forward. It does not retroactively cover any period during which no active subscription existed.
 
 ---
 
