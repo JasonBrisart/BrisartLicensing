@@ -56,9 +56,13 @@ Everything in Section 2 stops the moment your subscription lapses, expires, or i
 
 There is no grandfathering.
 
-If you created, sold, licensed, distributed, or commercialized Brisart-Derived Work while subscribed, those activities must stop when the subscription ends unless you resubscribe.
+If you created, sold, licensed, distributed, commercialized, or otherwise made available Brisart-Derived Work while subscribed, those activities must stop when the subscription ends unless you resubscribe.
 
 Resubscribing restores the applicable rights going forward. It does not retroactively cover any period during which no active subscription existed.
+
+Academic publications, research papers, validation studies, implementations, derivative frameworks, and other Brisart-Derived Work are subject to the same subscription requirements as commercial works.
+
+If a subscription expires, lapses, or is cancelled, the right to continue publishing, distributing, hosting, maintaining, or otherwise making such Brisart-Derived Work available also ends unless the subscription is renewed.
 
 ---
 
