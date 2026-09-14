@@ -1,6 +1,6 @@
 # Participation
 
-This document describes ways to engage with the Brisart ecosystem beyond simply running or studying official releases. It covers community participation, ecosystem support, and subscriber-driven product direction.
+This document describes ways to engage with the Brisart ecosystem beyond simply running software or studying official releases.
 
 Nothing in this document grants, modifies, or restricts any legal right. For licensing terms, permissions, restrictions, subscription rights, and commercial-use rights, refer to `LICENSE.md`.
 
