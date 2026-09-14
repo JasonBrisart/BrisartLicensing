@@ -1,82 +1,87 @@
 # Brisart Ecosystem License
 
-This is the single license governing use of the Brisart software ecosystem:
+This is the single license governing use of the Brisart ecosystem:
 
-- BrisartResearchArchive,
-- BrisartDevTools,
-- BrisartPreservationTools,
-- BrisartIdentityTools,
-- BrisartFrameworks,
+- BrisartResearchArchive
+- BrisartDevTools
+- BrisartPreservationTools
+- BrisartIdentityTools
+- BrisartFrameworks
 
-and any future Brisart project.
+and any future Brisart project unless that project explicitly states otherwise.
 
 ---
 
-### Definitions
+## Definitions
 
-**Brisart-Derived Work** means any fork, modification, adaptation,
-reimplementation, rewrite, derivative work, successor work,
-replacement work, framework, methodology, specification,
-workflow, implementation, software, product, service, or other work
-created wholly or partially from Brisart software, Brisart Frameworks,
-Brisart source code, Brisart architecture, Brisart methodologies,
-Brisart implementation details, or knowledge obtained through access
-to Brisart materials.
+**Brisart-Derived Work** means any fork, modification, adaptation, reimplementation, rewrite, derivative work, successor work, replacement work, framework, methodology, specification, workflow, implementation, software, product, service, or other work created wholly or partially from Brisart software, Brisart Frameworks, source code, architecture, methodologies, implementation details, or knowledge obtained through access to Brisart materials.
 
 ---
 
 ## 1. Free, No Subscription Required
 
-Anyone can, at no cost, for non-commercial purposes only:
+Anyone can, at no cost and for non-commercial purposes only:
 
 - Download and run official releases
-- Read the source code
-- Use it personally, academically, or internally within an organization
+- Read published source code
+- Read and study published Brisart Frameworks
+- Use official releases personally, academically, or internally within an organization
 
-That's it. No forking. No modifying. No redistributing. No selling anything built from it (e.g Brisart-Derived Work - **Check Definitions** above §1). Reading and running the official, unmodified release is the entire free grant.
+That's it.
+
+No forking. No modifying. No adapting. No implementing. No extending. No redistributing. No commercializing. No creating Brisart-Derived Work.
+
+Reading and using official releases as published, and reading and studying published frameworks, is the entire free grant.
 
 ---
 
 ## 2. What a Subscription Unlocks
 
-An active subscription — any tier — grants three rights, and only while the subscription stays active:
+An active subscription grants the right to:
 
-1. **Fork** the source code
-2. **Sell or commercialize** anything you build from it
-3. **Submit implementation requests** (feature/capability suggestions Brisart may or may not build)
+1. Fork, modify, adapt, implement, or extend Brisart software and frameworks
+2. Create Brisart-Derived Work
+3. Sell or commercialize Brisart-Derived Work
+4. Submit implementation requests
 
-All three require a currently active subscription. None of them are one-time — they're rented, not owned.
+These rights exist only while the subscription remains active.
+
+None of these rights are permanent. They are rented, not owned.
 
 ---
 
 ## 3. If You Cancel
 
-Everything in Section 2 stops the moment your subscription lapses — including the right to keep selling something you already built and shipped while you were subscribed. There is no grandfathering. If you built a commercial product while subscribed and later cancel, you must stop selling it unless you resubscribe.
+Everything in Section 2 stops the moment your subscription lapses, expires, or is cancelled.
 
-Resubscribing restores your rights going forward. It does not retroactively cover the gap.
+There is no grandfathering.
+
+If you created, sold, licensed, distributed, or commercialized Brisart-Derived Work while subscribed, those activities must stop when the subscription ends unless you resubscribe.
+
+Resubscribing restores the applicable rights going forward. It does not retroactively cover any period during which no active subscription existed.
 
 ---
 
 ## 4. Pricing
 
-| Tier | Price | Who it's for |
-|---|---|---|
+| Tier | Price | Who It's For |
+| --- | --- | --- |
 | Individual | $49.99/month | 1 person |
-| Research Lab | $499.99/month | Up to 15 people, one lab/org |
-| Institutional | $4,999.99/month | Unlimited people, one org |
+| Research Lab | $499.99/month | Up to 15 people, one lab or organization |
+| Institutional | $4,999.99/month | Unlimited people, one organization |
 
-Every tier grants the exact same rights. Price and seat count are the only differences.
+Every tier grants the same rights. Price and seat count are the only differences.
 
 ---
 
 ## 5. Everything Else
 
-- **Official releases only** come from Brisart-controlled repositories, the official website, or explicitly authorized channels. Anything else isn't covered by this license.
+- Official releases only come from Brisart-controlled repositories, websites, or explicitly authorized distribution channels.
 
-- **Donations** are separate from subscriptions. Anyone can donate. It supports the project but grants no rights — not even implementation requests.
+- Donations are separate from subscriptions. Donations grant no rights under this license.
 
-- **Subscription month** means the period from the date you subscribe to the same calendar date in the next month (e.g. March 2nd -> April 2nd).
+- Subscription month means the period from the date you subscribe to the same calendar date in the following month.
 
-- **Terms may be modified by Brisart at its sole discretion.** Any changes will not affect the subscription period already in progress. Updated terms will take effect upon your next renewal or subscription purchase.
+- Terms may be modified by Brisart at its sole discretion. Changes do not affect the subscription period already in progress and take effect at the next renewal or subscription purchase.
 
-- **Future Revenue Sharing Notice.** Brisart reserves the right to introduce a revenue sharing requirement for future renewals, which may reach or exceed fifty percent (50%) of net revenue. No such requirement is currently in effect. Institutions, researchers, and commercial entities planning to commercialize Brisart-Derived Work should factor this possibility into their long-term planning before subscribing.
+- Future Revenue Sharing Notice. Brisart reserves the right to introduce a revenue sharing requirement at future renewals, which may reach or exceed fifty percent (50%) of net revenue. No such requirement is currently in effect. Organizations, researchers, institutions, and commercial entities planning to commercialize Brisart-Derived Work should factor this possibility into their long-term planning before subscribing.
