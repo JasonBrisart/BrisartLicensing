@@ -72,8 +72,8 @@ Resubscribing restores the applicable rights going forward. It does not retroact
 | Tier | Price | Who It's For |
 | --- | --- | --- |
 | Individual | $49.99/month | 1 person |
-| Research Lab | $499.99/month | Up to 15 people, one lab or organization |
-| Institutional | $4,999.99/month | Unlimited people, one organization |
+| Research Lab | $499.99/month | Up to 15 people |
+| Institutional | $4,999.99/month | Unlimited people |
 
 Every tier grants the same rights. Price and seat count are the only differences.
 
