@@ -90,3 +90,5 @@ Every tier grants the same rights. Price and seat count are the only differences
 - Terms may be modified by Brisart at its sole discretion. Changes do not affect the subscription period already in progress and take effect at the next renewal or subscription purchase.
 
 - Future Revenue Sharing Notice. Brisart reserves the right to introduce a revenue sharing requirement at future renewals, which may reach or exceed fifty percent (50%) of net revenue. No such requirement is currently in effect. Organizations, researchers, institutions, and commercial entities planning to commercialize Brisart-Derived Work should factor this possibility into their long-term planning before subscribing.
+
+- Subscriptions are owned and controlled by the subscriber that purchases them. Individual subscriptions belong to the individual subscriber. Research Lab subscriptions belong to the purchasing laboratory. Institutional subscriptions belong to the purchasing institution. Subscriptions are non-transferable.
